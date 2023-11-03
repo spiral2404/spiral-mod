@@ -1,0 +1,21 @@
+requirements: [
+copper/250
+lead/200
+silicon/125
+]
+category: crafting
+outputItem: hulla/1
+craftTime: 30
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+type: GenericCrafter
+consumes: {
+power: 1
+items: {
+items: [
+graphite/5
+]
+}
+}

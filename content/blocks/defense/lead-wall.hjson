@@ -1,0 +1,8 @@
+health: 1000
+size: 1
+category: defense
+requirements: [
+lead/6
+]
+
+      

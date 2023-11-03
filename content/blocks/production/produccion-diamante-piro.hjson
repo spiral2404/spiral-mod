@@ -1,0 +1,23 @@
+requirements: [
+copper/100
+lead/100
+silicon/75
+]
+category: crafting
+itemCapacity: 10
+outputItem: diamante-piro/1
+craftTime: 30
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+type: GenericCrafter
+consumes: {
+power: 0.6
+items: {
+items: [
+diamante/1
+pyratite/1
+]
+}
+}

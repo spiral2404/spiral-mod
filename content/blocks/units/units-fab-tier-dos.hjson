@@ -1,0 +1,22 @@
+type: reconstructor
+requirements: [
+copper/100
+lead/150
+silicon/250
+]
+category: units
+size: 3
+consumes: {
+power: 5
+items: [
+silicon/40
+graphite/40
+]
+}
+constructTime: 500
+upgrades: [
+[flare, horizon]
+[dagger, mace]
+[nova, pulsar]
+[crawler, atrax]
+]

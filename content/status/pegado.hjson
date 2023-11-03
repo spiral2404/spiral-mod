@@ -1,0 +1,6 @@
+name: pegado
+disarm: false
+reloadMultiplier: 0.25
+speedMultiplier: 0
+color: 000000
+opposites: [overclock, wet, burning, melting]

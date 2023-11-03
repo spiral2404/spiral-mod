@@ -1,0 +1,23 @@
+type: reconstructor
+requirements: [
+copper/800
+silicon/1000
+lead/1000
+]
+category: units
+size: 5
+consumes: {
+power: 8
+items: [
+silicon/130
+titanium/80
+metaglass/40
+]
+}
+constructTime: 1500
+upgrades: [
+[horizon, zenith]
+[mace, fortress]
+[pulsar, quasar]
+[atrax, spiroct]
+]

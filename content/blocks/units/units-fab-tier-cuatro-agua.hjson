@@ -1,0 +1,21 @@
+type: reconstructor
+requirements: [
+copper/800
+silicon/1000
+lead/1000
+]
+category: units
+size: 5
+consumes: {
+power: 8
+items: [
+diamante-agua/1
+]
+}
+constructTime: 1500
+upgrades: [
+[zenith, zenith-agua]
+[fortress, fortress]
+[quasar, quasar]
+[spiroct, spiroct]
+]
