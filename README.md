@@ -1,15 +1,8 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+# acerca del mod
+este mod para mindustry esta en face beta, contiene algunos bugs, cosas rotas/overpower, etc. este mod esta en constante desarrollo, con actualizaciones cada no mas de dos meses
 
-## Importing
+## versiones
 
-Simply download this repository as a zip, then import it through the `Mods` dialog in Mindustry. Or, unzip this repo inside Mindustry's `mods/` folder.
-
-## Contributing
-
-Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
-
-## Want more mods?
-
-Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
-If you want your mod on there, you can add it [here](https://github.com/SimonWoodburyForget/mindustry-mods/blob/master/CONTRIBUTING.md#adding-mods-to-the-listing).
+-0.1: version aerea
+  - se añadieron variantes de zenith
+  - se añadieron fabricadores de unidades e items
